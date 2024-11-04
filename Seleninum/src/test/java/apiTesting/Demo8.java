@@ -1,4 +1,4 @@
-package Demo;
+package apiTesting;
 
 import java.io.FileInputStream;
 import java.io.IOException;
