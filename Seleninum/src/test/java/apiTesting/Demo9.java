@@ -1,5 +1,5 @@
 
-package Demo;
+package apiTesting;
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
